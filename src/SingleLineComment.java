@@ -16,9 +16,18 @@ import java.util.Scanner;
 
 
 
- /**
-  * Using single-line- comments
-  */
+/**
+ * Using single-line comments
+ * <p>
+ * Using single-line comments can allow us to quicly explain some snippets of code
+ * following an indentation from a line. 
+ * 
+ * If a comment can't be written in a single-line it should follow a 
+ * block format
+ * 
+ * Reference: https://www.oracle.com/java/technologies/javase/codeconventions-comments.html
+ * </p>
+ */
 public class SingleLineComment {
 
     /* Use the Scanner class to fetch user input */
