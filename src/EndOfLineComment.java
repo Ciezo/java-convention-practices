@@ -15,9 +15,15 @@
 
 
 
- /**
-  * Using End of Line comments
-  */
+/**
+ * Using end-of-line comments 
+ * <p>
+ * Using this can help us comment unwanted portions of our code, or explain 
+ * briefly what a snippet does.
+ * 
+ * Reference: https://www.oracle.com/java/technologies/javase/codeconventions-comments.html
+ * </p>
+ */
 public class EndOfLineComment {
     
     private static String myString;         // Assign here the string you want 
