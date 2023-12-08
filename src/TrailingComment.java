@@ -19,6 +19,11 @@ import java.util.Scanner;
 
 /**
  * Using Trailing comments
+ * <p>
+ * This format is used for describing a section, line, or portion of a code. 
+ * It is important to remember that indention of this comment format should follow consistently.
+ * 
+ * Reference: https://www.oracle.com/java/technologies/javase/codeconventions-comments.html
  */
 public class TrailingComment {
 
