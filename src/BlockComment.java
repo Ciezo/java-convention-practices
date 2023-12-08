@@ -14,6 +14,13 @@
 
 /**
  * Using Block comments
+ * <p>
+ * Block comments can also be used for "doc-comments" or documentation comments
+ * which are helpful to explain implementation of how a code is used and written.
+ * 
+ * Reference: https://www.oracle.com/java/technologies/javase/codeconventions-comments.html
+ * </p>
+ * 
  */
 public class BlockComment {
 
